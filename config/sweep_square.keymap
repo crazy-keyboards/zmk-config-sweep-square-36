@@ -20,15 +20,15 @@
 
 #define MEH(key) LS(LC(LA(key)))
 
-#ifdef SQT
-#undef SQT
+//#ifdef SQT
+//#undef SQT
 #define SQT GRAVE
-#endif
+//#endif
 
-#ifdef DQT
-#undef DQT
+//#ifdef DQT
+//#undef DQT
 #define DQT LS(GRAVE)
-#endif
+//#endif
 
 #define GRV RA(GRAVE)
 #define PIP LS(BSLH)
