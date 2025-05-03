@@ -50,7 +50,7 @@
         wait-ms = <0>; \
         tap-ms = <0>; \
         bindings = \
-            <BINDINGS>; \
+        <BINDINGS>; \
     };
 
 #define MACRO_NO_PARAM(NAME, BINDINGS)  MACRO(NAME, "zmk,behavior-macro"          , 0, BINDINGS)
