@@ -203,7 +203,7 @@ _ Z          _ X          _ C          _ V         _ B             _ N          
 _ TAB        _ Q          _ W          _ E         _ R             ___          ___          _ UP         ___          _ TAB
 _ LSFT       _ A          _ S          _ D         _ F             ___          _ LEFT       _ DOWN       _ RIGHT      _ RSFT
 _ LCTRL      _ Z          _ X          _ C         _ V             ___          ___          ___          ___          _ RCTRL
-                          _ LALT       _ SPACE     &mo GFN         &tog GAM     _ SPACE      ______
+                          _ LALT       _ SPACE     &mo GFN         &tog GAM     _ SPACE      _ PSCRN
             >;
         };
 
