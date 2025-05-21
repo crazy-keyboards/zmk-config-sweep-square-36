@@ -6,6 +6,8 @@ manifest:
     # See https://docs.zephyrproject.org/3.2.0/develop/west/manifest.html#projects
     - name: zmk
       url-base: https://github.com/nxtkb
+    - name: crazy-keyboards
+      url-base: https://github.com/crazy-keyboards
   projects:
     # - name: zmk
     #   remote: zmkfirmware
@@ -15,5 +17,8 @@ manifest:
       remote: zmk
       revision: main
       import: app/west.yml
+    - name: zmk-locales
+      remote: crazy-keyboards
+      revision: develop
   self:
     path: config
