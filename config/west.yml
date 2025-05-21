@@ -14,7 +14,7 @@ manifest:
     #   revision: main
     #   import: app/west.yml
     - name: zmk
-      remote: zmk
+      remote: zmkfirmware
       revision: main
       import: app/west.yml
     - name: zmk-locales
